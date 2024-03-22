@@ -64,3 +64,16 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+li :hover{
+    color: red;
+    transform: scale(0.5);
+}
+
+li{
+    transition: transform 0.3s ease-in-out;
+}
+
+img{
+    border-radius: 80%;
+}
