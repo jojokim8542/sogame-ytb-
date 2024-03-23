@@ -67,3 +67,8 @@ img{
 img:hover {
     transform: scale(1.1);
 }
+
+.comptesteam{
+    color: blue;
+    text-decoration: underline;
+}
